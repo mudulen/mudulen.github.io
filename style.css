@@ -1,6 +1,6 @@
 body {
   font-family: "Helvetica";
-  background-color: #f7cbcb;
+  background-color: #ffe3e3;
   color: #000000;
   display: flex;
   flex-direction: column;
@@ -13,7 +13,7 @@ body {
 }
 
 .header__avatar {
-  border-radius: 30%;
+  border-radius: 40%;
 }
 
 .header__title {
@@ -24,7 +24,7 @@ body {
 }
 
 .header__subtitle {
-  color: #b8b4b4;
+  color: #8f8d8d;
   font-size: 16px;
   line-height: 1.4;
   margin: 0;
@@ -100,7 +100,7 @@ footer {
   align-items: center;
   padding: 10px;
   width: 320px;
-  background: #97bbe6;
+  background: #7796bd;
   border-radius: 20px;
 
   font-size: 14px;
